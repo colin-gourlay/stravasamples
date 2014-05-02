@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Strava.NET</id>
+    <version>1.0.1</version>
+    <title>Strava.NET</title>
+    <authors>Sascha Simon</authors>
+    <owners>Sascha Simon</owners>
+    <projectUrl>https://github.com/inexcitus/stravadotnet</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A small framework that makes using the Strava API a little bit easier. 
+Only works with .NET 4.5
+
+Please send any feedback to bike@sascha-simon.com</description>
+    <releaseNotes>1.0.1:
+
+- Created a new static class to store all the endpoints.</releaseNotes>
+    <copyright>Sascha Simon</copyright>
+    <language />
+    <tags>Strava Cycling Http API Biking Async Methods Framework Client</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="6.0.1" />
+    </dependencies>
+  </metadata>
+</package>
